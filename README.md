@@ -1,14 +1,28 @@
 # not-listing
 
-This is a simple todo-list done with tauri for the light weight. It stores all the lists within the app.
+A minimal, local-first to-do list app built with Tauri — fast, lightweight, and distraction-free.
 
-**Functionality:**
+## Features
 
-- Input tasks to do
-- Button to remove each task
-- Press enter to add the task
-- Lightweight
+- Add tasks quickly by pressing **Enter**
+- Remove tasks with a single **click**
+- Instant save to local storage
+- Lightweight and fast by design
 
 ## Why?
 
-I needed something simple. Something that was clean, no AI, no cloud storage. Just add things to-do and get the job done
+I built *not-listing* because I wanted something simple.  
+No AI, no cloud sync, no bloat.  
+Just a clean interface to jot down what needs to get done — and move on.
+
+
+## Design 
+Simple
+<br>
+<br>
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/b4cf5b2f-f8d4-4b65-a540-686f47b66370" />
+
+
+## contribute?
+If you like to contribute, please do so, but be on the mentality of simple. I like simple things.
+
